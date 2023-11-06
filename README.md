@@ -1,4 +1,4 @@
-### Project 3 Elliott Jones ###
+### Reddit NLP analysis Elliott Jones ###
 
 ## Project contents ##
 * data folder
